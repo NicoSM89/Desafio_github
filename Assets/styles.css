@@ -739,6 +739,7 @@ td, th {
   display: grid;
   grid-auto-rows: minmax(125px, auto);
   grid-gap: .5rem;
+  display: flex;
 }
 
 
